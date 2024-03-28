@@ -1,0 +1,12 @@
+name: bcyto-kytoport
+title: BCyto-KytoPort
+username: Kytos
+account: Kytos
+server: box.kytos.be
+hostUrl: https://box.kytos.be/__api__
+appId: 381
+bundleId: 5698
+url: https://box.kytos.be/content/2ea74c48-8ef6-4043-b05f-08167dbeb691/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

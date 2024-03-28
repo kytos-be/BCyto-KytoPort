@@ -1,4 +1,4 @@
-Package: BCyto - Kytos Port
+Package: BCytoKytoPort
 Title: A Shiny App for Flow Cytometry Data Analysis and Visualization
 Version: 1.0.3
 Authors@R: c(person("Caio", "Santos Bonilha", email="caiosantosb@hotmail.com", 
@@ -13,7 +13,7 @@ License: GPL-3
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.2.1
+RoxygenNote: 7.3.1
 Depends:
     R (>= 4.2.0)
 Remotes:
